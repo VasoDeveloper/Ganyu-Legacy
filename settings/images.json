@@ -1,0 +1,46 @@
+{
+  "defaultProfile": {
+    "value": "https://www.dropbox.com/scl/fi/i67nsqvsili0i1x4ia7w8/default.png?rlkey=hxoz6oyqh784rl1e6w7cvcej3&st=qpg1asno&dl=1"
+  },
+  "Main": {
+    "comment": "Logo principal doBOT, é usada no Menu e em alguns comandos, recomendado usar uma logo na vertical.",
+    "value": "https://i.ibb.co/HLQ1Xqrk/dd1fe8fcc398.jpg"
+  },
+  "Level": {
+    "comment": "Fundo nescessário para a criação da imagem (através da API)  notificar a conquista de um novo level, como também a verificação do seu patente atual.",
+    "value": "https://www.dropbox.com/scl/fi/ma3sajh97sbm48z7g8ark/left_enter.jpg?rlkey=8slas3sspd1ajhysuvenz9a9e&st=hftwryh9&dl=1"
+  },
+  "Welcome": {
+    "comment": "Imagens usadas como fundos no Card de entrada e saída do grupo.",
+    "Left": "https://www.dropbox.com/scl/fi/ma3sajh97sbm48z7g8ark/left_enter.jpg?rlkey=8slas3sspd1ajhysuvenz9a9e&st=hftwryh9&dl=1",
+    "Enter": "https://www.dropbox.com/scl/fi/ma3sajh97sbm48z7g8ark/left_enter.jpg?rlkey=8slas3sspd1ajhysuvenz9a9e&st=hftwryh9&dl=1"
+  },
+  "Brincadeiras": {
+    "comment": "São comandos que usam random para medir a porcentagem e divertir seu grupo, por exemplo: “O quanto você é gay?”, “Que tal um surubão?”",
+    "Cards": {
+      "Nazista": "https://www.dropbox.com/scl/fi/phio9e4danve1ztftaft4/nazista.jpg?rlkey=xg0a4xm4507zr7nirnuiqnyb9&st=wivyh2yx&dl=1",
+      "Gay": "https://www.dropbox.com/scl/fi/mitf16roz9i5xpfw20ewy/gay.jpg?rlkey=m67t3lugzmj5v15hehdwgmyda&st=g0xl0nd4&dl=1",
+      "Corno": "https://www.dropbox.com/scl/fi/f14keje9tvqknthr2dtg8/corno.jpg?rlkey=yit78dqmlqay680jelkboq69w&st=q8qq6c9y&dl=1",
+      "Gostosa": "https://www.dropbox.com/scl/fi/tzp7rzys9kcv0ccca9kfs/gostosa.jpg?rlkey=5k5hsuc7702cbyou50f7brw08&st=w6adfnq1&dl=1",
+      "Gostoso": "https://www.dropbox.com/scl/fi/4faj8a4n3c2l0o7aoa2uy/gostoso.jpg?rlkey=6gwvlp87ulpk7msd27rnaende&st=wxh9v3kc&dl=1",
+      "Feio": "https://www.dropbox.com/scl/fi/ocqszykqbpmu8lb1wqy9a/feio.jpg?rlkey=oi4a8ybhzcwp1vs29kleymg4z&st=a4eea32t&dl=1",
+      "Gado": "https://www.dropbox.com/scl/fi/ci9ndqem388ln6kms9e7l/gado.jpg?rlkey=knlfit018ifv7lddgj30vdxo7&st=ixz192t4&dl=1",
+      "Vesgo": "https://www.dropbox.com/scl/fi/y90y3vkpuv00vfbkk5duu/vesgo.jpg?rlkey=ggz065p7spkvij66qvwvy2vew&st=rnx4s4gx&dl=1",
+      "Bebado": "https://www.dropbox.com/scl/fi/un16fsspo41zxiax2h1zb/bebado.jpg?rlkey=bn0s38clv6l21stdlo6np520b&st=8nxuxwpd&dl=1",
+      "Tapa": "https://www.dropbox.com/scl/fi/91mn09kgfsmzdanoki8kl/841664f31eb7539c35a2d.mp4?rlkey=h4i5mlegiop8xvdk0lli8ki36&st=1nc40gv8&dl=1",
+      "Matar": "https://www.dropbox.com/scl/fi/1nqsyt3mfjixc8ps9gtp2/1135a19fceefa7074caf8.mp4?rlkey=sj28jd5jjdtb0qep1p4ru3i04&st=su5ag4du&dl=1",
+      "Kisses": "https://www.dropbox.com/scl/fi/yjgphbm5zeb4ov1gslejg/c9b5ed858237ebc9f7356.mp4?rlkey=enzimtxzqkafdndgp4te6o24f&st=v1dbf11v&dl=1",
+      "Chute": "https://www.dropbox.com/scl/fi/s5xnyks0rvncp06idwh3r/d4b2525d2e1aeb33fa626.mp4?rlkey=ba3d3ns0z3eugi743rnfp83i4&st=7qb6ls0l&dl=1",
+      "Death": "https://www.dropbox.com/scl/fi/rc16y188s85vfi92cawhh/298aea280b6af0c4b53e7.mp4?rlkey=f6ty9n2vyeoedg2v89cemb6t7&st=w5y6zopt&dl=1",
+      "RankGay": "https://www.dropbox.com/scl/fi/irtj7zg86ovrjkokw0sx0/rnkgay.jpg?rlkey=81rpwq2e1p7ioyn3cvn7y2xp7&st=9jid74gg&dl=1",
+      "RankGado": "https://www.dropbox.com/scl/fi/d7l8nlhfrlpay2w0kyfdr/c28abd2759de471a8364e.jpg?rlkey=43kyjyysbgqnvpl12hjezon6u&st=mnf8chqt&dl=1",
+      "RankCorno": "https://www.dropbox.com/scl/fi/p9g8x0q1qn6fzgk7chh5z/rnkcorno.jpg?rlkey=ff4195ewsafjde4a4mh6rnbg3&st=ujjgt9a3&dl=1",
+      "RankGostoso": "https://www.dropbox.com/scl/fi/7leka2p8ljua405jsl2rx/58c118e4e5127b144c1cc.jpg?rlkey=u2v5icik9yinzlol43kjzg6sh&st=wwois3rk&dl=1",
+      "RankGostosa": "https://www.dropbox.com/scl/fi/lf25lq2289z6bpc41jiv2/34d765e9d54de92b75f30.jpg?rlkey=t8t8hd68ditad374ykq27r7ij&st=5qwdcyit&dl=1",
+      "RankNazista": "https://www.dropbox.com/scl/fi/0k1g95nl6bsbf29cnjrek/1d5bfe8f8699a0b7ff4dd.jpg?rlkey=ad3q8ypwub61uz2gbivq62koo&st=c33vy770&dl=1",
+      "RankOtaku": "https://www.dropbox.com/scl/fi/9kj17yxnlxkjdxyc5as0a/796eed26a8f761970d9f5.jpg?rlkey=pteamh7tv1d3a1oijdnuge42j&st=5ynafuyw&dl=1",
+      "RankPau": "https://www.dropbox.com/scl/fi/hmna5hg1quz2ri2vxcpin/ee6aed00378a0d1b88dda.jpg?rlkey=z7ritx91fglyylluoh4fah1td&st=51vp85mg&dl=1",
+      "Suruba": "https://www.dropbox.com/scl/fi/8u3rotp5b261862ae4q9g/73abfd759ad087d83b2b0.jpg?rlkey=c7b76llb6f5olqz8oo3nll6ak&st=n2wv3ale&dl=1"
+    }
+  }
+}

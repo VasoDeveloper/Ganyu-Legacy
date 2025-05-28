@@ -1,0 +1,29 @@
+{
+  "OwnerNumber": {
+    "description": "Definir o número do dono oficial do bot, ou seja, o superior.",
+    "value": "5521986463678"
+  },
+  "Prefix": {
+    "description": "Definir um prefixo para o BOT reconhecer como comando. Lembrando, não é afetado os comandos sem prefixos.",
+    "value": "!"
+  },
+  "nameOwner": {
+    "description": "Definir o nome que você deseja ser reconhecido como dono na BOT, será presente em comandos informativos.",
+    "value": "ꪶ͢͜𝑪𝜟͢𝑼𝑮𝑯𝑻 𝑰𝑵 4𝑲 {ꪶ͢͜𝑽𝜟͢𝑺𝚯/𝑫𝜮𝑽𝑺}"
+  },
+  "botName": {
+    "description": "Definir o nome do bot, pode incluir letras modificadas e símbolos.",
+    "value": "⏤͟͟͞͞𝑮𝜟͢𝑵𝒀𝑼 𝑳𝜮𝑮𝜟͢𝑪𝒀"
+  },
+  "NewsletterConfig": {
+    "description": "Coloque o ID do canal do WhatsApp. Caso você não tenha o ID do seu canal, entre em contato com meu dono.",
+    "value": ""
+  },
+  "subOwners": {
+    "dono1": "",
+    "dono2": "",
+    "dono3": "",
+    "dono4": "",
+    "dono5": ""
+  }
+}

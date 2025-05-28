@@ -1,0 +1,116 @@
+[
+  {
+    "name": "🎮 ❱ 𝕌𝗡Ĭ̈T҈Y҉ G҈A̸M͟E̥ͦR",
+    "groupId": "120363391021791063@g.us",
+    "x9": false,
+    "antiimg": {
+      "status": false,
+      "description": "Proíbe o envio de imagens no grupo aonde está ativo, caso seja enviado o participante será removido do grupo! Use o comando [Prefixo]Antiimg",
+      "message": "0"
+    },
+    "antivideo": {
+      "status": false,
+      "description": "Este tipo de anti proíbe o envio de vídeos dentro do grupo, ou seja, os membros que não participam da administração do grupo, são removidos do grupo! Para ativar o anti em seu grupo, use o comando: [Prefixo]Antivideo.",
+      "message": "0"
+    },
+    "antiaudio": {
+      "status": false,
+      "description": "Este tipo de anti tem a função de remover qualquer usuário que enviar uma,mensagem que for identificada como áudio ou mensagens de voz! para ativar este anti em seu grupo, use: [Prefixo]Antiaudio."
+    },
+    "antisticker": {
+      "status": false,
+      "description": "Este anti tem a função de remover o membro que enviar uma ou várias figurinhas dentro no grupo, o qual está ativado! Para ativar, use: [Prefixo]Antisticker"
+    },
+    "antidoc": {
+      "status": false,
+      "description": "Cansado de receber documentos PDF ou entre outros formatos? Este anti tem a função de remover o membro que encaminhar um documento no grupo. Para ativar este tipo de anti, use: [Prefixo]Antidoc",
+      "message": "0"
+    },
+    "antictt": {
+      "status": false,
+      "description": "Este comando tem como função de remover quem enviar contatos(v-cards) no grupo, é um anti usado por motivos de travas-contatos, deve ser uma trava absoleta mas sempre tem estar precavido... Para ativar esta proteção em seu grupo, use: [Prefixo]Antictt"
+    },
+    "antiloc": {
+      "status": false,
+      "description": "Uma proteção que consiste em remover quem enviar localizações em tempo real ou fixas, já ouviu falar nas travas de localizações? Este tipo de anti é útil até hoje! Para proteger seu grupo, use este comando: [Prefixo]Antiloc"
+    },
+    "antilinkgp": {
+      "status": false,
+      "description": "Quer proteger seu grupo de ladrões de membros? Ative essa função, seja feliz e ainda durma tranquilo! Este comando tem a virtude de remover todos os usuários que enviarem link de grupos dentro do seu... Para ativar, use o comando: [Prefixo]Antilinkgp"
+    },
+    "antilinkhard": {
+      "status": false,
+      "description": "Proteja seu grupo de todo tipo de link usando o AntiLinkHard, sendo ele do TikTok, Instagram, links enganosos ou golpe... Para ativar, use comando: [Prefixo]Antilinkhard"
+    },
+    "antifake": {
+      "status": false,
+      "description": "Você quer deixar seu grupo sem números estrangeiros? É só ativar a função de AntiFake, para ativar use: [Prefixo]Antifake",
+      "message": "0"
+    },
+    "antinotas": {
+      "status": false,
+      "description": "Quer proibir todos os tipos de divulgação sendo ela oferecimentos de produtos como nota fake ou qualquer que contenha emojis de moedas em seu texto? Use o comando [Prefix]Antinotas"
+    },
+    "anticatalogo": {
+      "status": false,
+      "description": "Lembra das antigas travas catálogos ou usuários de contas business que ativam a funcionalidade? Você tem como remover quem usar em seu grupo e só ativar o comando [Prefixo]Anticatalogo e seja feliz!"
+    },
+    "visuUnica": {
+      "status": false,
+      "description": "Detesta visualizações únicas? Dessa vez eu não vou banir, eu irei explanar o conteúdo enviado (vídeo, imagem ou áudio) e só ativar o comando [Prefixo]X9visuunica"
+    },
+    "soadm": {
+      "status": false,
+      "description": "Tem a função de restringir todos os membros de utilizarem os comandos, menos o(s) proprietário(s) e administradores do grupo, para ativar use: [Prefixo]Soadm"
+    },
+    "anti_enquete": {
+      "status": false,
+      "description": "Sem descrição!"
+    },
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "/"
+    ],
+    "advertir2": [],
+    "allowedParticipant": {
+      "usus": []
+    },
+    "multiprefix": false,
+    "ausentes": [],
+    "ANTI_DDD": {
+      "active": false,
+      "listaProibidos": []
+    },
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "autosticker": {
+      "status": false,
+      "description": "Cria figurinhas de vídeos e imagens sem usar nenhum comando, ou seja, tudo de forma automatizada! Para ativar esta funcionalidade, use: [Prefixo]Autofigu"
+    },
+    "autoresposta": false,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "isModoCoins": false
+  }
+]

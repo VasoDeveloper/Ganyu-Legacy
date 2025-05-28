@@ -1,0 +1,43 @@
+{
+  "AntiPrivado": {
+    "status": false,
+    "message": "Sinto muito *#nome#*, meu dono não permitiu eu responder ninguém. Então, infelizmente irei te bloquear, qualquer dúvida entre em contato com meu proprietário."
+  },
+  "AntiPrivado2": {
+    "status": false,
+    "message": "Segundo as configurações, não é permitido enviar mensagem para o bot, atualmente ele está programado para não responder usuários comuns, somente os usuários premiuns e meus donos, qualquer dúvida entre em contato com meu proprietário."
+  },
+  "AntiPrivado3": {
+    "status": false,
+    "message": "Este tipo de anti privado não contém nenhuma mensagem, ou seja, somente ignora os comandos dos usuários comuns (aqueles que não tem premium)."
+  },
+  "botoes": {
+    "status": true,
+    "message": "Segundo as configurações, não é permitido enviar mensagem para o bot, atualmente ele está programado para não responder usuários comuns, somente os usuários premiuns e meus donos, qualquer dúvida entre em contato com meu proprietário."
+  },
+  "listanegraG": [],
+  "listabrancaG": [],
+  "blockCmdG": [],
+  "CommandsVIP": [
+    "destrava",
+    "destrava2",
+    "listaddd",
+    "gerarcpf",
+    "premiumlist",
+    "tinyurl",
+    "cuttly",
+    "bitly",
+    "scep",
+    "cotacao",
+    "igstalk",
+    "igsh"
+  ],
+  "Verificado": true,
+  "AntiCall": false,
+  "ModoAluguel": false,
+  "ViewMessagesChat": true,
+  "LimitCommand": {
+    "message": "🕒 Oops! Parece que você usou um comando recentemente. Você precisará esperar {rtime} antes de poder usar outro comando. Vá fazer algo saudável como caminhar e volte quando terminar a contagem!"
+  },
+  "botOffline": true
+}

@@ -1,0 +1,45 @@
+{
+   "APIs": {
+        "name": "Sabrina APIs", 
+        "comment": "Uso para os comandos de sociais, downloads e pesquisas. Esta KEY é criada no momento que você adquire o bot e passada por fora ou já é integrada aqui.",
+        "website": "https://api.sabrinabot.xyz",
+        "type": "Trial",
+        "apikey": ""
+   },
+   "Gemini": {
+        "name": "GoogleGenerativeAI | Gemini",
+        "comment": "Não é nescessário nenhum custo financeiro para realizar a criação da APIKey no AiStudio (Google Gemini).",
+        "website": "https://aistudio.google.com/app/apikey/",
+        "type": "Free",
+        "apikeys": [
+            "AIzaSyCgOvc46hpJNhl5qTnCKkhklwN59-uOs34"
+        ]
+   },
+   "Prodia": {  
+        "name": "Prodia - Generative AI",
+        "comment": "Não é nescessário nenhum custo financeiro para criar um TOKEN para uso da API do Prodia. A opção gratuita são disponibilizados 1.000 requisições a cada mês, existe as opções pagas, veja os detalhes no Site Oficial deles sobre os planos e preços.",
+        "website": "https://app.prodia.com/api/",
+        "type": "Trial",
+        "apikeys": [
+            "7d43c5d9-6f03-457f-9dc3-87c32992bf00"
+        ]
+   },
+   "KarloAI": {
+        "name": "KarloAI | @KakaoTeam",
+        "comment": "Não nescessário nenhum custo financeiro para a criação da aplicação. Após criar a aplicação, entre na mesma, selecione a opção 'App Keys' e copie a REST API Key e copie aqui na declaração apikeys.",
+        "website": "https://developers.kakao.com/console/app/",
+        "type": "Free",
+        "apikeys": [
+           "90abf624ef1624fd83ac1876e69d8d02"
+        ]
+   },
+   "TMDB": {
+        "name": "The Movie Database [TMDB]",
+        "comment": "O serviço não exige nenhum custo financeiro para realizar o cadastro, possui planos pagos, mas também possui bons planos de uso gratuito.",
+        "website": "https://www.themoviedb.org/settings/api/",
+        "type": "Free",
+        "apikeys": [
+           "ddfcb99fae93e4723232e4de755d2423"
+        ]
+   }
+}
