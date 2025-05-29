@@ -36,6 +36,6 @@ pkg update && pkg upgrade
 pkg install git nodejs
 
 # Clone o repositório
-git clone https://github.com/seu-usuario/ganyu-legacy.git
+git clone https://github.com/VasoDeveloper/Ganyu-Legacy.git
 cd ganyu-legacy
 sh ganyu.sh
