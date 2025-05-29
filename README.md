@@ -33,7 +33,8 @@ Siga os passos abaixo para rodar a bot:
 ```bash
 # Atualize e instale os pacotes necessários no Termux
 pkg update && pkg upgrade
-pkg install git nodejs
+pkg install git
+pkg install nodejs -y
 
 # Clone o repositório
 git clone https://github.com/VasoDeveloper/Ganyu-Legacy.git
