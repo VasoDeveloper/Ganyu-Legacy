@@ -38,5 +38,5 @@ pkg install nodejs -y
 
 # Clone o repositório
 git clone https://github.com/VasoDeveloper/Ganyu-Legacy.git
-cd ganyu-legacy
+cd Ganyu-Legacy
 sh ganyu.sh
