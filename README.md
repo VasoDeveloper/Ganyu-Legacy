@@ -44,6 +44,7 @@ git clone https://github.com/VasoDeveloper/Ganyu-Legacy.git
 cd Ganyu-Legacy
 sh ganyu.sh
 ```
+---
 ### PERGUNTAS E DUVIDAS (IMPORTANTE LER):
 
  **O que é fazer a reconexão? 👩‍💻**
