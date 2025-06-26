@@ -46,8 +46,10 @@ sh ganyu.sh
 ```
 ---
 <div align="center">
+  
 ### PERGUNTAS E DUVIDAS (IMPORTANTE LER):
-<div>
+
+</div>
 
  **O que é fazer a reconexão? 👩‍💻**
 
