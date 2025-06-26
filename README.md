@@ -51,18 +51,18 @@ sh ganyu.sh
 
 </div>
 
-  **O que é fazer a reconexão? 👩‍💻**
+**O que é fazer a reconexão? 👩‍💻**
 
- Fazer a *reconexão* na Ganyu ou em qualquer outro bot, é basicamente você conectar a bot novamente!
+Fazer a *reconexão* na Ganyu ou em qualquer outro bot, é basicamente você conectar a bot novamente!
 
- **Como faço a reconexão da Ganyu? 🐐**
+**Como faço a reconexão da Ganyu? 🐐**
 
- Para você poder fazer a reconexão da Ganyu, você tem que apagar a pastar **qr-code**, que se encontra na pasta arquivos, database, e abaixo do arquivo "groups" vai ter a pasta **qr-code**, apenas apague e reinicie o bot, depois disso é só colocar o seu numero novanente.
+Para você poder fazer a reconexão da Ganyu, você tem que apagar a pastar **qr-code**, que se encontra na pasta arquivos, database, e abaixo do arquivo "groups" vai ter a pasta **qr-code**, apenas apague e reinicie o bot, depois disso é só colocar o seu numero novanente.
 
- **Eu posso usar o bot no meu próprio numero?**
+**Eu posso usar o bot no meu próprio numero?**
 
- Eu, Vaso, não recomendo tal coisa... tanto que você terá muitas limitações ao utilizar o bot em seu próprio numero! E uma delas seria abrir o menu do bot, pois você utilizando no próprio numero não teria como, e o ideal é colocar a bot em um número reservado para ela.
+Eu, Vaso, não recomendo tal coisa... tanto que você terá muitas limitações ao utilizar o bot em seu próprio numero! E uma delas seria abrir o menu do bot, pois você utilizando no próprio numero não teria como, e o ideal é colocar a bot em um número reservado para ela.
 
- **Por que a Ganyu só funciona no WhatsApp normal?**
+**Por que a Ganyu só funciona no WhatsApp normal?**
   
- A Ganyu só funciona no WhatsApp normnal, devido aos botões que ela tem... e por conta disso, os botões da Ganyu entra em incompatibilidade com o WhatsApp Business! Fazendo assim, não aparecer os botões, menus, e o bot não funcionar corretamente.
+A Ganyu só funciona no WhatsApp normnal, devido aos botões que ela tem... e por conta disso, os botões da Ganyu entra em incompatibilidade com o WhatsApp Business! Fazendo assim, não aparecer os botões, menus, e o bot não funcionar corretamente.
