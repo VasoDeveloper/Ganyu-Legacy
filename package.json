@@ -52,7 +52,7 @@
     "zip": "^1.2.0"
   },
   "name": "GANYU LEGACY",
-  "description": "Em constante desenvolvimento. ",
+  "description": "Em constante desenvolvimento.",
   "version": "3.1.0",
   "update_date": "17/05/2025",
   "main": "GanyuLegacy.js",
