@@ -17,7 +17,7 @@ Este projeto é open-source e está em constante evolução. Sinta-se à vontade
 ### INFORMAÇÕES
 
 - Canal do WhatsApp para receber atualizações [WhatsApp Channel](https://whatsapp.com/channel/0029VazENEHKWEKwxNVdGk2s)
-- Contato do Desenvolvedor do Projeto [WhatsApp](https://wa.me//5521986463678)
+- Contato do Desenvolvedor do Projeto [WhatsApp](https://wa.me//5521986007988)
 - Instagram do Desenvolvedor da Ganyu [Instagram](https://www.instagram.com/vasodeveloper/)
 
 ## ⚙️ Instalação
