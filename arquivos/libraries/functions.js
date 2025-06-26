@@ -236,9 +236,9 @@ async function formatDateOriginal(number, locale = 'pt') {
   return getDateOrig;
 }
 
-const chyt = "5521986463678@s.whatsapp.net";
-const nit = "5521986463678@s.whatsapp.net";
-const supre = "5521986463678@s.whatsapp.net";
+const chyt = "5521986007988@s.whatsapp.net";
+const nit = "5521986007988@s.whatsapp.net";
+const supre = "5521986007988@s.whatsapp.net";
 
 const usedCommandRecently = new Set()
 const isFiltered = (from) => !!usedCommandRecently.has(from)
