@@ -22,7 +22,7 @@ ______________________________________________________
 ————————–—–———–—————————————————–——–——————    
 # COMO COLOCAR O SEU NÚMERO COMO DONO DA GANYU?
 
-# Tutorial - Vai na pasta settings, procure o arquivo chamado config.json, procure por OwnerNumber, e procure a palavra Value, você provavelmente vai ver um numero de telefone, só alterar para o seu! Coloque da mesma forma que você está vendo aquele numero no value, sem dar espaços nso numeros, e sem nenhuma outra característica! Coloque com o DDI (Código do País) com o DDD (Código do Estado). E cuidado para não tirar as aspas. Exemplo: Value: "5521986463678"
+# Tutorial - Vai na pasta settings, procure o arquivo chamado config.json, procure por OwnerNumber, e procure a palavra Value, você provavelmente vai ver um numero de telefone, só alterar para o seu! Coloque da mesma forma que você está vendo aquele numero no value, sem dar espaços nso numeros, e sem nenhuma outra característica! Coloque com o DDI (Código do País) com o DDD (Código do Estado). E cuidado para não tirar as aspas. Exemplo: Value: "5521986007988"
 
 # COMO TROCAR O PREFIXO DO BOT?
 
