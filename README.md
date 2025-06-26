@@ -48,7 +48,7 @@ sh ganyu.sh
 
  **O que é fazer a reconexão? 👩‍💻**
 
-Fazer a *reconexão* na Ganyu ou em qualquer outro bot, é basicamente você conectar novamente a bot em um novo numero, ou no mesmo numero!
+Fazer a *reconexão* na Ganyu ou em qualquer outro bot, é basicamente você conectar a bot novamente!
 
 **Como faço a reconexão da Ganyu? 🐐**
 
