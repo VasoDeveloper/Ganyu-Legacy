@@ -51,7 +51,7 @@ sh ganyu.sh
 ---
 <div align="center"><strong>📌 LEIA COM ATENÇÃO ANTES DE USAR O BOT</strong></div>
 
-**👩‍💻 O que é "fazer a reconexão"?**
+👩‍💻 O que é "fazer a reconexão"?
 
 Fazer a reconexão na Ganyu (ou em qualquer outro bot) é basicamente reconectar sua conta do WhatsApp com a bot, como se fosse um novo login.
 
