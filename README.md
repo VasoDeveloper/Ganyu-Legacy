@@ -49,9 +49,8 @@ cd Ganyu-Legacy
 sh ganyu.sh
 ```
 ---
-<div align="center"><strong>📌 LEIA COM ATENÇÃO ANTES DE USAR O BOT</strong></div>
 
-
+<div align="center">📌 LEIA COM ATENÇÃO ANTES DE USAR O BOT</div>
 
 **👩‍💻 O que é "fazer a reconexão"?**
 
