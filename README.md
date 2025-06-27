@@ -50,7 +50,7 @@ sh ganyu.sh
 ```
 ---
 
-<div align="center">📌 LEIA COM ATENÇÃO ANTES DE USAR O BOT</div>
+<div align="center"><strong>📌 LEIA COM ATENÇÃO ANTES DE USAR O BOT</strong></div>
 
 **👩‍💻 O que é "fazer a reconexão"?**
 
