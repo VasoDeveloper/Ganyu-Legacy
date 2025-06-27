@@ -1,68 +1,78 @@
 <h1 align="center">Ganyu Legacy</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/13191227-75db-4b79-a7ba-02ea2bc4299d" alt="Ganyu Legacy Banner">
+  <img src="https://github.com/user-attachments/assets/13191227-75db-4b79-a7ba-02ea2bc4299d" alt="Ganyu Legacy Banner" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Versão-Beta-blueviolet" />
+  <img src="https://img.shields.io/badge/Node.js-20%2B-green" />
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange" />
+  <img src="https://img.shields.io/badge/Licença-MIT-blue" />
 </p>
 
 ---
 
 ## 🐐 Sobre o Projeto
 
-**Ganyu Legacy** é uma bot desenvolvida pelo autor "VasoDevs", para trazer funcionalidades únicas e personalizadas para grupos de WhatsApp. Inspirado na personagem Ganyu de Genshin Impact, a bot mistura utilidade com personalidade, oferecendo comandos úteis, interações divertidas e integração com diversos serviços e APIs.
+**Ganyu Legacy** é uma bot desenvolvida por **VasoDevs**, trazendo funcionalidades únicas e personalizadas para grupos de WhatsApp. Inspirada na personagem Ganyu de *Genshin Impact*, a bot mistura utilidade com personalidade, oferecendo comandos úteis, interações divertidas e integração com diversos serviços e APIs.
 
-Este projeto é open-source e está em constante evolução. Sinta-se à vontade para usar da forma que quiser! ❤
+> Este projeto é **open-source** e está em constante evolução. Sinta-se à vontade para usar e modificar do seu jeito! ❤️
 
 ---
 
-### INFORMAÇÕES
+## 📡 Informações e Contato
 
-- Canal do WhatsApp para receber atualizações [WhatsApp Channel](https://whatsapp.com/channel/0029VazENEHKWEKwxNVdGk2s)
-- Contato do Desenvolvedor do Projeto [WhatsApp](https://wa.me//5521986007988)
-- Canal do YouTuber [YouTuber](https://youtube.com/@vasodeveloper)
-- Instagram do Desenvolvedor da Ganyu [Instagram](https://www.instagram.com/vasodeveloper/)
+- 🔔 Canal de atualizações: [WhatsApp Channel](https://whatsapp.com/channel/0029VazENEHKWEKwxNVdGk2s)  
+- 📱 Desenvolvedor: [Contato via WhatsApp](https://wa.me/5521986007988)  
+- 📺 YouTube: [@vasodeveloper](https://youtube.com/@vasodeveloper)  
+- 📷 Instagram: [@vasodeveloper](https://www.instagram.com/vasodeveloper/)
+
+---
 
 ## ⚙️ Instalação
 
-Siga os passos abaixo para rodar a bot:
-
 ### Pré-requisitos
 
-- [Node.js](https://nodejs.org/) (versão 20 ou superior)
+- [Node.js 20+](https://nodejs.org/)
 
-### Passos
+### Passo a passo (Termux)
 
 ```bash
-# Atualize e instale os pacotes necessários no Termux
-pkg update
-pkg upgrade
+pkg update && pkg upgrade
 pkg install git
 pkg install nodejs -y
 
-# Clone o repositório
 cd /sdcard
 git clone https://github.com/VasoDeveloper/Ganyu-Legacy.git
 cd Ganyu-Legacy
 sh ganyu.sh
 ```
 ---
-<div align="center">
-  
-### PERGUNTAS E DUVIDAS (IMPORTANTE LER):
+❓ Perguntas Frequentes
+<div align="center"> <strong>📌 LEIA COM ATENÇÃO ANTES DE USAR O BOT</strong> </div>
+👩‍💻 O que é "fazer a reconexão"?
+Fazer a reconexão na Ganyu (ou em qualquer outro bot) é basicamente reconectar sua conta do WhatsApp com a bot, como se fosse um novo login.
 
-</div>
+🐐 Como faço a reconexão da Ganyu?
+Vá até a pasta arquivos/database.
 
-**O que é fazer a reconexão? 👩‍💻**
+Apague a pasta chamada qr-code (fica abaixo do arquivo groups).
 
-Fazer a *reconexão* na Ganyu ou em qualquer outro bot, é basicamente você conectar a bot novamente!
+Reinicie o bot.
 
-**Como faço a reconexão da Ganyu? 🐐**
+Após isso, escaneie o novo QR Code com o número que você quer usar.
 
-Para você poder fazer a reconexão da Ganyu, você tem que apagar a pastar **qr-code**, que se encontra na pasta arquivos, database, e abaixo do arquivo "groups" vai ter a pasta **qr-code**, apenas apague e reinicie o bot, depois disso é só colocar o seu numero novanente.
+❌ Posso usar a bot no meu próprio número?
+Não é recomendado. Você terá muitas limitações, como:
 
-**Eu posso usar o bot no meu próprio numero?**
+Não poder abrir o menu da bot.
 
-Eu, Vaso, não recomendo tal coisa... tanto que você terá muitas limitações ao utilizar o bot em seu próprio numero! E uma delas seria abrir o menu do bot, pois você utilizando no próprio numero não teria como, e o ideal é colocar a bot em um número reservado para ela.
+Incompatibilidades com certos comandos.
 
-**Por que a Ganyu só funciona no WhatsApp normal?**
-  
-A Ganyu só funciona no WhatsApp normnal, devido aos botões que ela tem... e por conta disso, os botões da Ganyu entra em incompatibilidade com o WhatsApp Business! Fazendo assim, não aparecer os botões, menus, e o bot não funcionar corretamente.
+O ideal é usar um número separado, exclusivo para a Ganyu.
+
+📲 Por que a Ganyu só funciona no WhatsApp normal?
+Porque o WhatsApp Business não suporta corretamente os botões interativos usados pela Ganyu. Isso causa erros nos menus e nos comandos da bot.
+
+<p align="center"><i>Feito com 💙 por VasoDevs</i></p> ```
