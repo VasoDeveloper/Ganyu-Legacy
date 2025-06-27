@@ -9,7 +9,7 @@ ______________________________________________________
 
 # Instagram: @vasodeveloper
 
-# Canal da Ganyu no WhatsApp: https://whatsapp.com/channel/0029VazENEHKWEKwxNVdGk2s
+# Grupo no WhatsApp: https://chat.whatsapp.com/DAN4D8GltokEAv48UWq684
 
 # Canal do YouTube: youtube.com/@vasodeveloper
 
