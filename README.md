@@ -17,7 +17,7 @@
 
 **Ganyu Legacy** é uma bot desenvolvida por **VasoDevs**, trazendo funcionalidades únicas e personalizadas para grupos de WhatsApp. Inspirada na personagem Ganyu de *Genshin Impact*, a bot mistura utilidade com personalidade, oferecendo comandos úteis, interações divertidas e integração com diversos serviços e APIs.
 
-> Este projeto é **open-source** e está em constante evolução. Sinta-se à vontade para usar e modificar do seu jeito! ❤️
+> Este projeto é **open-source** e está em constante evolução. Sinta-se à vontade para usar do seu jeito! ❤️
 
 ---
 
