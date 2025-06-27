@@ -51,10 +51,13 @@ sh ganyu.sh
 ---
 ❓ Perguntas Frequentes
 <div align="center"> <strong>📌 LEIA COM ATENÇÃO ANTES DE USAR O BOT</strong> </div>
+
 👩‍💻 O que é "fazer a reconexão"?
+
 Fazer a reconexão na Ganyu (ou em qualquer outro bot) é basicamente reconectar sua conta do WhatsApp com a bot, como se fosse um novo login.
 
 🐐 Como faço a reconexão da Ganyu?
+
 Vá até a pasta arquivos/database.
 
 Apague a pasta chamada qr-code (fica abaixo do arquivo groups).
@@ -64,6 +67,7 @@ Reinicie o bot.
 Após isso, escaneie o novo QR Code com o número que você quer usar.
 
 ❌ Posso usar a bot no meu próprio número?
+
 Não é recomendado. Você terá muitas limitações, como:
 
 Não poder abrir o menu da bot.
@@ -73,6 +77,7 @@ Incompatibilidades com certos comandos.
 O ideal é usar um número separado, exclusivo para a Ganyu.
 
 📲 Por que a Ganyu só funciona no WhatsApp normal?
+
 Porque o WhatsApp Business não suporta corretamente os botões interativos usados pela Ganyu. Isso causa erros nos menus e nos comandos da bot.
 
-<p align="center"><i>Feito com 💙 por VasoDevs</i></p> ```
+<p align="center"><i>Feito com 💙 por VasoDevs</i></p>
