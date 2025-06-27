@@ -58,21 +58,21 @@ Fazer a reconexão na Ganyu (ou em qualquer outro bot) é basicamente reconectar
 
 **🐐 Como faço a reconexão da Ganyu?**
 
-Vá até a pasta arquivos/database.
+1 - Vá até a pasta arquivos/database.
 
-Apague a pasta chamada qr-code (fica abaixo do arquivo groups).
+2 - Apague a pasta chamada qr-code (fica abaixo do arquivo groups).
 
-Reinicie o bot.
+3 - Reinicie o bot.
 
-Após isso, escaneie o novo QR Code com o número que você quer usar.
+4 - Após isso, escaneie o novo QR Code com o número que você quer usar.
 
 **❌ Posso usar a bot no meu próprio número?**
 
 Não é recomendado. Você terá muitas limitações, como:
 
-Não poder abrir o menu da bot.
+- Não poder abrir o menu da bot.
 
-Incompatibilidades com certos comandos.
+- Incompatibilidades com certos comandos.
 
 O ideal é usar um número separado, exclusivo para a Ganyu.
 
