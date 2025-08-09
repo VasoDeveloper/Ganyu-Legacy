@@ -1,7 +1,7 @@
 {
   "OwnerNumber": {
     "description": "Definir o número do dono oficial do bot, ou seja, o superior.",
-    "value": "5521986007988"
+    "value": "5521967672765"
   },
   "Prefix": {
     "description": "Definir um prefixo para o BOT reconhecer como comando. Lembrando, não é afetado os comandos sem prefixos.",
